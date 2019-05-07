@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jeannielsen/Imerge2/static/css/main.42f465ab.chunk.css",
-    "main.js": "/jeannielsen/Imerge2/static/js/main.09d1b104.chunk.js",
-    "main.js.map": "/jeannielsen/Imerge2/static/js/main.09d1b104.chunk.js.map",
-    "runtime~main.js": "/jeannielsen/Imerge2/static/js/runtime~main.1770174a.js",
-    "runtime~main.js.map": "/jeannielsen/Imerge2/static/js/runtime~main.1770174a.js.map",
-    "static/js/2.5bebe61b.chunk.js": "/jeannielsen/Imerge2/static/js/2.5bebe61b.chunk.js",
-    "static/js/2.5bebe61b.chunk.js.map": "/jeannielsen/Imerge2/static/js/2.5bebe61b.chunk.js.map",
-    "index.html": "/jeannielsen/Imerge2/index.html",
-    "precache-manifest.ba55324a4d6bc61db8b0fac2ba5fb7d2.js": "/jeannielsen/Imerge2/precache-manifest.ba55324a4d6bc61db8b0fac2ba5fb7d2.js",
-    "service-worker.js": "/jeannielsen/Imerge2/service-worker.js",
-    "static/css/main.42f465ab.chunk.css.map": "/jeannielsen/Imerge2/static/css/main.42f465ab.chunk.css.map",
-    "static/media/Restaurant.jpg": "/jeannielsen/Imerge2/static/media/Restaurant.e61807dc.jpg",
-    "static/media/grocery-icon.png": "/jeannielsen/Imerge2/static/media/grocery-icon.193ff50a.png",
-    "static/media/hospital-icon.png": "/jeannielsen/Imerge2/static/media/hospital-icon.72e3e78e.png",
-    "static/media/immigration-icon.png": "/jeannielsen/Imerge2/static/media/immigration-icon.b3bb92e4.png"
+    "main.css": "/Imerge2/static/css/main.42f465ab.chunk.css",
+    "main.js": "/Imerge2/static/js/main.09d1b104.chunk.js",
+    "main.js.map": "/Imerge2/static/js/main.09d1b104.chunk.js.map",
+    "runtime~main.js": "/Imerge2/static/js/runtime~main.75bf22a2.js",
+    "runtime~main.js.map": "/Imerge2/static/js/runtime~main.75bf22a2.js.map",
+    "static/js/2.5bebe61b.chunk.js": "/Imerge2/static/js/2.5bebe61b.chunk.js",
+    "static/js/2.5bebe61b.chunk.js.map": "/Imerge2/static/js/2.5bebe61b.chunk.js.map",
+    "index.html": "/Imerge2/index.html",
+    "precache-manifest.6dd6060fa1c8c7047c35678fb88ba5aa.js": "/Imerge2/precache-manifest.6dd6060fa1c8c7047c35678fb88ba5aa.js",
+    "service-worker.js": "/Imerge2/service-worker.js",
+    "static/css/main.42f465ab.chunk.css.map": "/Imerge2/static/css/main.42f465ab.chunk.css.map",
+    "static/media/Restaurant.jpg": "/Imerge2/static/media/Restaurant.e61807dc.jpg",
+    "static/media/grocery-icon.png": "/Imerge2/static/media/grocery-icon.193ff50a.png",
+    "static/media/hospital-icon.png": "/Imerge2/static/media/hospital-icon.72e3e78e.png",
+    "static/media/immigration-icon.png": "/Imerge2/static/media/immigration-icon.b3bb92e4.png"
   }
 }

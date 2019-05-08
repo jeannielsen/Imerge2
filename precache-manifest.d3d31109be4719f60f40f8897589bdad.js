@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f415224fb30b5ba25e3b2793aa63f25e",
+    "revision": "694c181fbe951a4128b4c4b7ce9a25e1",
     "url": "/Imerge2/index.html"
   },
   {
-    "revision": "cab0215a3c45e0b9bf7e",
+    "revision": "c665666374fdd6379949",
     "url": "/Imerge2/static/css/main.da0dc921.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Imerge2/static/js/2.c7f4aa02.chunk.js"
   },
   {
-    "revision": "cab0215a3c45e0b9bf7e",
-    "url": "/Imerge2/static/js/main.4ffcfe1f.chunk.js"
+    "revision": "c665666374fdd6379949",
+    "url": "/Imerge2/static/js/main.23fef4cc.chunk.js"
   },
   {
     "revision": "a5be5bcc2f4259d36000",

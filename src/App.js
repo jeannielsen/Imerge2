@@ -19,7 +19,7 @@ function App() {
     <Router>
       <div>
         <Navbar />
-        <BrowserRouter history={history} basename={process.env.PUBLIC_URL}></BrowserRouter>
+        <BrowserRouter history={history} basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/agencies" component={Agencies} />
@@ -28,6 +28,7 @@ function App() {
           <Route exact path="/translator" component={Translator} />
 
         </Switch>
+        </BrowserRouter>
       </div>
     </Router>
   );

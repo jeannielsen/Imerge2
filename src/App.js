@@ -1,11 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "./pages/Home";
-import Agencies from "./pages/Agencies";
-import Maps from "./pages/Maps";
+import Home from "./pages/home";
+import Agencies from "./pages/agencies";
+import Maps from "./pages/maps";
 import Navbar from "./components/Navbar";
-import News from "./pages/News";
-import Translator from "./pages/Translator";
+import News from "./pages/news";
+import Translator from "./pages/translator";
 // the hook
 import { useTranslation } from 'react-i18next';
 import "./i18n"
@@ -19,6 +19,7 @@ function App() {
     <Router>
       <div>
         <Navbar />
+        <BrowserRouter history={history} basename={process.env.PUBLIC_URL}></BrowserRouter>
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/agencies" component={Agencies} />

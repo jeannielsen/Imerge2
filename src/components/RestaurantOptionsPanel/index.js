@@ -1,6 +1,6 @@
 import React from "react";
 import MapsAPI from "../../utils/API";
-import Maps from "../../pages/Maps";
+import Maps from "../../pages/maps";
 import {RestaurantApiDataStateChange} from '../RestaurantApiDataStateChange';
 
 export class RestaurantOptionsPanel extends React.Component {

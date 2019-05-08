@@ -1,6 +1,6 @@
 import React from "react";
 import MapsAPI from "../../utils/API";
-import Maps from "../../pages/maps";
+import Maps from "../../pages/Maps";
 import {RestaurantApiDataStateChange} from '../RestaurantApiDataStateChange';
 
 export class RestaurantOptionsPanel extends React.Component {
@@ -57,11 +57,11 @@ export class RestaurantOptionsPanel extends React.Component {
         console.log("radiovalue"+this.state.selectedRadioButton);
     const cuisines = [ 'Asian', 'Barbecue', 'Breakfast', 'Cafe', 'Chinese',
      'European', 'Fast food', 'Hamburger',
-    'Ice cream', 'Indian', 'Indonesian', 'Irish', 'italian', 'Jamaican',
+    'Ice cream', 'Indian', 'Indonesian', 'Irish', 'Italian', 'Jamaican',
     'Japanese', 'Korean', 'Mediterranean',
     'Mexican', 'Philippine',
-    'Portuguese', 'Sausage', 'Seafood', 'Soul food',
-    'Spanish Cuisine', 'Steak', 'Street food', 'Sushi',
+    'Portuguese', 'Sausage', 'Seafood', 'Soul Food',
+    'Spanish Cuisine', 'Steak', 'Street Food', 'Sushi',
     'Tapas', 'Thai', 'Turkish', 'Vegetarian', 'Vietnamese']
     console.log("restaurant type executing");
 

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/Imerge2/precache-manifest.d3d31109be4719f60f40f8897589bdad.js"
+  "/Imerge2/precache-manifest.9a631eaf83259514485492ff8833a0ba.js"
 );
 
 self.addEventListener('message', (event) => {

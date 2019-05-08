@@ -16,21 +16,21 @@ function App() {
 
   return (
     // Router component initialized to virtual DOM
-    <Router>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div>
         <Navbar />
-        <BrowserRouter history={history} basename={process.env.PUBLIC_URL}>
+ 
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/agencies" component={Agencies} />
           <Route exact path="/maps" component={Maps} />
-          <Route exact path="/news" component={News} />
+          <Route exact path="/news" component={News}/>
           <Route exact path="/translator" component={Translator} />
 
         </Switch>
-        </BrowserRouter>
+     
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 

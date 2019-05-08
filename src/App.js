@@ -21,10 +21,10 @@ function App() {
         <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/Agencies" component={Agencies} />
-          <Route exact path="/Maps" component={Maps} />
-          <Route exact path="/News" component={News} />
-          <Route exact path="/Translator" component={Translator} />
+          <Route exact path="/agencies" component={Agencies} />
+          <Route exact path="/maps" component={Maps} />
+          <Route exact path="/news" component={News} />
+          <Route exact path="/translator" component={Translator} />
 
         </Switch>
       </div>

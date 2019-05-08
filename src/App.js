@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from 'react-dom'
-import { BrowserRouter, Router, Route, IndexRoute } from "react-router";
+import { hashHistory, Router, Route, IndexRoute } from "react-router";
 import Home from "./pages/home";
 import Agencies from "./pages/agencies";
 import Maps from "./pages/maps";
@@ -16,7 +16,7 @@ function App() {
 
   return (
     // Router component initialized to virtual DOM
-    <Router history = {BrowserRouter}>
+    <Router history = {hashHistory}>
 
       <div>
         <Navbar />
